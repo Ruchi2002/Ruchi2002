@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ruchi
-- 👀 I’m interested in  | Software Development | AI | ML | DS |
-- 🌱 I’m currently learning ... python ,HTML,CSS,JavaScript
+- 👀Full Stack Developer| frontend Development | Software Development | AI | ML | DS | DSA
+
 
 
 
