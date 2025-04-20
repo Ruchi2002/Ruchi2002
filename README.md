@@ -65,11 +65,10 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ruchi2002&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruchi2002&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ruchi2002&show_icons=true&theme=tokyonight" width="60%" />
 </p>
 
 ---
@@ -83,6 +82,3 @@
 ---
 
 > 💬 *"Strive for progress, not perfection."*
-
----
-
