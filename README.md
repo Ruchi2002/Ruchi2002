@@ -2,9 +2,7 @@
 <h3 align="center">Frontend Developer | React.js Enthusiast | Creative Coder</h3>
 
 <p align="center">
-  <a href="https://pro-hire.vercel.app/" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-View_My_Work-ff69b4?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
+  
   <a href="https://www.linkedin.com/in/ruchi-302a5a21b/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
