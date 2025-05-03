@@ -20,7 +20,7 @@ Currently a **Final-Year B.Tech (AI) student**, with a **CGPA of 8.2**, explorin
 - 👩‍💻 Love bringing ideas to life with **React.js, GSAP, and Tailwind CSS**
 - 🤖 Experimenting with **AI models, NLP, Hugging Face, PyTorch**
 - 🧩 Strong foundation in **DSA (300+ GFG problems), OOPS, DBMS**
-- 🏆 Certified in **Java, AI with Python, Machine Learning**
+- 🏆 Certified in  AI with Python, Machine Learning**
 
 I enjoy blending **code + creativity**, whether that’s a stunning UI or an ML-powered app!
 
@@ -34,44 +34,52 @@ I enjoy blending **code + creativity**, whether that’s a stunning UI or an ML-
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
-  
+### 💻 Programming Languages
+<p align="left">
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  
-  <br/>
-  
+</p>
+
+### 🎨 Frontend Development
+<p align="left">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Shadcn_UI-000000?style=for-the-badge&logo=shadcn&logoColor=white" />
+</p>
 
-  <br/>
-
+### 🚀 Backend & Databases
+<p align="left">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
 
-  <br/>
-
+### 🤖 AI / ML Tools
+<p align="left">
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/-HuggingFace-F9A03C?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/-Gradio-FF4A4A?style=for-the-badge&logo=gradio&logoColor=white" />
+</p>
 
-  <br/>
-
+### 🧰 Dev Tools
+<p align="left">
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/-Clerk-3E2B8F?style=for-the-badge&logo=clerk&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
+
 
 ---
 
