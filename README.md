@@ -29,7 +29,7 @@ I enjoy blending **code + creativity**, whether that’s a stunning UI or an ML-
 ### 💼 Open to Opportunities
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=🚀+Actively+Seeking+Frontend/Fullstack+Roles!;🌱+Available+for+Internships+and+Freelance+Projects;👯+Let’s+Collaborate+and+Build!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=🚀+Actively+Seeking+Frontend/Fullstack/AI/ML+Roles!;🌱+Let’s+Collaborate+and+Build!" />
 </p>
 
 ---
